@@ -5,7 +5,7 @@ Este proyecto incluye la configuración de un contenedor Docker y su conexión c
 ## Integrantes
 - María Fernanda Martínez May
 - Luis Joel
-- Ángel
+- Ángel Uriel Castreejón Islas
 
 ## Instrucciones
 
